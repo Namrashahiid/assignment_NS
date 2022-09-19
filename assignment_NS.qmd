@@ -13,7 +13,7 @@ In this assignment are we going to answer a qustion, which is: Can Quarto Docume
 
 ## Introduction
 
-One big question which is not so easy to answer is "Can Quarto Documents and Checkpoint package help us achieve reproducibility? we are going to answer this question is this essay. The main focus of the checkpoint package is to make sure that the problem is solved of package reproducibility in R. The checkpoint package allows you to install packages locally. Even if they existed on a specific date. Now the question is how does this checkpoint package work? First of all the thing is that checkpoint allows everybody to install package locally as same as they existed on exact same place and date.
+One big question which is not so easy to answer is "Can Quarto Documents and Checkpoint package help us achieve reproducibility? We are going to answer this question is this essay. The main focus of the checkpoint package is to make sure that the problem is solved of package reproducibility in R. The checkpoint package allows you to install packages locally. Even if they existed on a specific date. Now the question is how does this checkpoint package work? First of all the thing is that checkpoint allows everybody to install package locally as same as they existed on exact same place and date.
 
 The thing is that Quarto is a advanced version of Rstudio, with many functions and capabilities.
 I will talk more about Quarto Document and how this can help achieveph us reproducibility afterwards.
