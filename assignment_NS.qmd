@@ -4,7 +4,7 @@ author: Namra Shahid
 format: pdf
 editor: visual
 csl: apa-no-ampersand.csl
-bibliography: [NS.bib, reproducibility.bib]
+bibliography: [ns.bib, reproducibility.bib]
 ---
 
 ## Abstract
@@ -13,10 +13,11 @@ In this assignment are we going to answer a qustion, which is: Can Quarto Docume
 
 ## Introduction
 
-One big question which is not so easy to answer is "Can Quarto Documents and Checkpoint package help us achieve reproducibility? we are going to answer this question is this essay. The main focus of the checkpoint package is to make sure that the problem is solved of package reproducibility in R. The checkpoint package allows you to install packages locally. Even if they existed on a specific date. Now the question is how does this checkpoint package work? First of all the thing is that checkpoint allows everybody to install package locally as same as they existed on exact same place and date.
+One big question which is not so easy to answer is "Can Quarto Documents and Checkpoint package help us achieve reproducibility? We are going to answer this question is this essay. The main focus of the checkpoint package is to make sure that the problem is solved of package reproducibility in R. The checkpoint package allows you to install packages locally. Even if they existed on a specific date. Now the question is how does this checkpoint package work? First of all the thing is that checkpoint allows everybody to install package locally as same as they existed on exact same place and date.
 
 The thing is that Quarto is a advanced version of Rstudio, with many functions and capabilities.
 I will talk more about Quarto Document and how this can help achieveph us reproducibility afterwards.
+I am going to discuss more about this problem afterwards.
 
 ## Literature review
 
@@ -25,11 +26,11 @@ Reproducibility refers to repeating the same procedures with the same data.
 Reproducibilty is important, but not enough tough, condition for Replicability.
 To gain reproducibility is it stored on our checkpoint server.
 Big point to come up with here is that this Checkpoint server has the ability to rsync.
-This means that this checkpoint server has the ability to save as it was the very firs moment.
+This means that this checkpoint server has the ability to save as it was the very firs moment [@ooiReproducibleToolkitRRT] .
 
 Now one big question here is "What is the goal of this Checkpoint package?" The main goal of checkpoint is simply to solve reproducibility problem in R.
 Checkpoint allows to install packages as they existed from day 1 or from the very first moment.
-People using can guarantee the reproducibility of their document/scripts/projects anytime they want @16ProductFailsa .
+People using can guarantee the reproducibility of their document/scripts/projects anytime they want.
 
 The goal of the Quarto is to make projects better and easy.
 Quarto is a open source of software.
@@ -48,6 +49,7 @@ When we talk about Checkpoint package, it has 3 main functions:
 
     Another important point here is that when we work with the checkpoint package the existing package will remain the same.
     All the packages which existed will remain the same.
+    This is very important.
 
 ## Discussion
 
@@ -74,6 +76,7 @@ We achieve knowledge and ideas by this reproducibility process.
 ## Conclusion
 
 In conclusion, I just want to say that the Quarto Document and the Checkpoint package make this reproducibility process much more easier and more efficient than ever.
+yes
 
 ## Refrences
 
