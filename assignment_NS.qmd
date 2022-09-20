@@ -27,30 +27,22 @@ To gain reproducibility is it stored on our checkpoint server.
 Big point to come up with here is that this Checkpoint server has the ability to rsync.
 This means that this checkpoint server has the ability to save as it was the very firs moment [@ooiReproducibleToolkitRRT] .
 
-Now one big question here is "What is the goal of this Checkpoint package?"
-The main goal of checkpoint is simply to solve reproducibility problem in R.
+Now one big question here is "What is the goal of this Checkpoint package?" The main goal of checkpoint is simply to solve reproducibility problem in R.
+Checkpoint allows to install packages as they existed from day 1 or from the very first moment.
+People using can guarantee the reproducibility of their document/scripts/projects anytime they want.
+[@ooiReproducibleToolkitRRT]
 
-Checkpoint allows to install packages as they existed from day 1 or from the
-very first moment.
-People using can guarantee the reproducibility of their
-document/scripts/projects anytime they want.
-\[@ooiReproducibleToolkitRRT\]
-
-The important thing or issue for researchers is the abilty or access to reproducible
-research, which is a very important issue or topic for users of R.
-\[@vriesIntroducingReproducibleToolkit\]
+The important thing or issue for researchers is the ability or access to reproducible research, which is a very important issue or topic for users of R.
+This Checkout package have given the Data world a big success.[@vriesIntroducingReproducibleToolkit]
 
 The question is now how do researchers mean that we achieve reproducibility?
 What we do is that we store everyday information and all CRAN packages.
 So the fact of this checkpoint package is that this package solve the reproducibility in R.
 
-The goal
-of the Quarto is to make projects better and easy.
-Quarto is a open source of
-software.
+The goal of the Quarto is to make projects better and easy.
+Quarto is a open source of software.
 This Quarto document in Rstudio make sure that its easier to adopt a reproducible work.
-I will discuss more about Quarto document under the
-discussion heading.
+I will discuss more about Quarto document under the discussion heading.
 When we talk about Checkpoint package, it has 3 main functions:
 
 1.  There is one directory which is located underneath the "checkpoint".
@@ -61,12 +53,10 @@ When we talk about Checkpoint package, it has 3 main functions:
 
 3.  It installs the packages into the checkpoint directory.
 
-    Another important point here is that when we work with the checkpoint
-    package the existing package will remain the same.
-    All the packages which
-    existed will remain the same.
+    Another important point here is that when we work with the checkpoint package the existing package will remain the same.
+    All the packages which existed will remain the same.
     This is very important.
-    \[@unknownQuartoQuarto\]
+    [@unknownQuartoQuarto]
 
 ## 
 
