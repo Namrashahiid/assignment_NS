@@ -9,8 +9,8 @@ bibliography: [ns.bib, reproducibility.bib]
 
 ## Abstract
 
-xIn this assignment are we going to answer a qustion, which is: Can Quarto Documents and Checkpoint package help us achieve reproducibility?
-\<\<\<\<\<\<\< HEAD To answer this are we going in depth of what actually reproducibility means.
+In this assignment are we going to answer a qustion, which is: Can Quarto Documents and Checkpoint package help us achieve reproducibility?
+To answer this are we going in depth of what actually reproducibility means.
 
 ## Introduction
 
