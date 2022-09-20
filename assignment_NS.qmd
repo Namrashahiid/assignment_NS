@@ -35,8 +35,8 @@ Checkpoint allows to install packages as they existed from day 1 or from the ver
 People using can guarantee the reproducibility of their document/scripts/projects anytime they want.
 [@ooiReproducibleToolkitRRT]
 
-The important thing or issue for researchers is the abilty or access to reproducible research, which is a very important issue or topic for users of R.
-[@vriesIntroducingReproducibleToolkit]
+The important thing or issue for researchers is the ability or access to reproducible research, which is a very important issue or topic for users of R.
+This Checkout package have given the Data world a big success.[@vriesIntroducingReproducibleToolkit]
 
 The question is now how do researchers mean that we achieve reproducibility?
 What we do is that we store everyday information and all CRAN packages.
@@ -46,7 +46,6 @@ The goal of the Quarto is to make projects better and easy.
 Quarto is a open source of software.
 This Quarto document in Rstudio make sure that its easier to adopt a reproducible work.
 I will discuss more about Quarto document under the discussion heading.
-
 When we talk about Checkpoint package, it has 3 main functions:
 
 1.  There is one directory which is located underneath the "checkpoint".
@@ -59,11 +58,9 @@ When we talk about Checkpoint package, it has 3 main functions:
 
 Another important point here is that when we work with the.
 checkpoint package the existing package will remain the same.
-All the packages which existed will remain the same.
-This is very important.
-[@unknownQuartoQuarto]
+All the packages which existed will remain the same. This is very important. [@unknownQuartoQuarto]
 
-## Discussion
+Discussion
 
 Checkpoint is designed in a way that is beneficial for projects, because it contains R code.
 
