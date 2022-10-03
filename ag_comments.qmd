@@ -1,0 +1,26 @@
+---
+title: "ag_comment"
+format: html
+editor: visual
+---
+
+-   Dokumentet er reproduserbart både som html og pdf.
+    Bra!
+
+-   Litteraturstudien kunne med fordel vært mer omfattende, men ok i denne sammenhengen
+
+-   Git historien ser fin ut, se figur @fig-git_hist
+
+![Git History](git_hist.png){#fig-git_hist fig-env="figure"}
+
+-   Har ordent litt i appendiksen slik at `sessionInfo()` er mer lesbar.
+
+-   Fikset litt på div-en for å få plasser referanselisten.
+    Tror du hadde fått en heading2 inne i div-en
+
+-   La inn en `\pagebrak[4]` (kraftig oppfordring til LaTeX om å legge inn et sideskift) rett før Appendix slik at det ikke blir en hengende linje nederst på siden
+
+-   Har endret litt i YAML headeren slik at dokumentet kommer ut med et fint artikkel oppset både i html og pdf format
+
+-   Se også hvordan jeg legger inn kryssreferanse til figur i dette dokumentet.
+    Hemmeligheten er å gi figuren en ID som starter med `#fig-` og så referere til denne

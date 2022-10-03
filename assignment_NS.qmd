@@ -1,16 +1,18 @@
 ---
 title: "Can Quarto Documents and the Checkpoint package help us achieve reproducibility?"
-author: Namra Shahid
+author: 
+  - name: Namra Shahid
+    affiliation: Master Student HVL
 format: pdf
+documentclass: article
+classoption: 
+  - '12pt'
+  - 'a4paper'
 editor: visual
 csl: apa-no-ampersand.csl
 bibliography: [ns.bib, reproducibility.bib]
+abstract: 'In this assignment are we going to answer a question, which is: Can Quarto Documents and Checkpoint package help us achieve reproducibility? To answer this are we going in depth of what actually reproducibility means.'
 ---
-
-## Abstract
-
-In this assignment are we going to answer a question, which is: Can Quarto Documents and Checkpoint package help us achieve reproducibility?
-To answer this are we going in depth of what actually reproducibility means.
 
 ## Introduction
 
@@ -58,7 +60,9 @@ When we talk about Checkpoint package, it has 3 main functions:
 
 Another important point here is that when we work with the.
 checkpoint package the existing package will remain the same.
-All the packages which existed will remain the same. This is very important. [@unknownQuartoQuarto]
+All the packages which existed will remain the same.
+This is very important.
+[@unknownQuartoQuarto]
 
 Discussion
 
@@ -90,17 +94,22 @@ Quarto document and checkpoint can in most cases help us achieve reproducibility
 ## Refrences
 
 ::: {#refs}
-## 
 :::
+
+\pagebreak[4]
 
 ## Appendix
 
-R version 4.2.1 (2022-06-23) Platform: x86_64-apple-darwin17.0 (64-bit) Running under: macOS Monterey 12.5.1
-
-Matrix products: default LAPACK: /Library/Frameworks/R.framework/Versions/4.2/Resources/lib/libRlapack.dylib
-
-locale: \[1\] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
-
-attached base packages: \[1\] stats graphics grDevices utils datasets \[6\] methods base
-
-loaded via a namespace (and not attached): \[1\] compiler_4.2.1 tools_4.2.1
+    R version 4.2.1 (2022-06-23) 
+    Platform: x86_64-apple-darwin17.0 (64-bit)
+    Running under: macOS Monterey 12.5.1
+    Matrix products: default LAPACK: 
+    /Library/Frameworks/R.framework/Versions/4.2/Resources/lib/
+    libRlapack.dylib
+    locale: 
+    [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+    attached base packages: 
+    [1] stats graphics grDevices utils datasets 
+    [6] methods base
+    loaded via a namespace (and not attached): 
+    [1] compiler_4.2.1 tools_4.2.1
